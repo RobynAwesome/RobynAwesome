@@ -23,8 +23,8 @@ Every line of code I write is built on integrity, excellence, and service.
 
 ## Let's connect
 
-- 🌐 [Portfolio]([https://kholofelorababalela.vercel.app/projects)](https://www.krrababalela.com/projects)
-- 💼 [LinkedIn]([https://linkedin.com/in/kholofelo-rababalela)](https://www.linkedin.com/in/kholofelo-robyn-rababalela-7a26273b6/))
+- 🌐 [Portfolio]([https://kholofelorababalela.vercel.app/projects)
+- 💼 [LinkedIn]([https://linkedin.com/in/kholofelo-rababalela)
 - ☕ [Support my work](https://ko-fi.com/robynawesome)
 - 📧 rkholofelo@kopanolabs.com
 
