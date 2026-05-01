@@ -30,6 +30,6 @@ Every line of code I write is built on integrity, excellence, and service.
 
 ---
 
-**Currently:** CPUT Computer Engineering Student | Clearing R34k debt by shipping code daily
+**Currently:** CPUT Computer Engineering Student | Clearing the 31.8% Un-emplyment where age 18 --> 35 equatate to 60%
 
 **Hire me** to build your AI infrastructure, offline-first PWA, or Next.js application.
