@@ -40,7 +40,7 @@ I exclusively build on high-fidelity, highly resilient stacks capable of localiz
 ### 🔗 Connect With The Network
 
 <div align="center">
-  <a href="https://kholofelorababalela.vercel.app/projects"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://KRRababalela.com/projects"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://kopanolabs.com"><img src="https://img.shields.io/badge/Kopano_Labs-14b8a6?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=...&logoColor=white" alt="Kopano Labs" /></a>
   <a href="https://www.linkedin.com/in/kholofelo-robyn-rababalela-7a26273b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://krrababalela.com"><img src="https://img.shields.io/badge/Personal_Web-8b5cf6?style=for-the-badge&logo=globe&logoColor=white" alt="Website" /></a>
