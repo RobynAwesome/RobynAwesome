@@ -50,5 +50,5 @@ I exclusively build on high-fidelity, highly resilient stacks capable of localiz
 <br/>
 
 <div align="center">
-  <p><i>Currently: CPUT Computer Engineering Student and John's Hopkins Student | Eradicating the 31.8% unemployment gap</i></p>
+  <p><i>Currently: CPUT Computer Engineering Student and John's Hopkins University Student | Eradicating the 31.8% unemployment gap</i></p>
 </div>
