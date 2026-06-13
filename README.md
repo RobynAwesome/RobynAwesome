@@ -1,6 +1,6 @@
 <div align="center">
   <h1>⚡ Kholofelo "Robyn" Rababalela</h1>
-  <h3>Chief Architect @ Kopano Labs | Cape Town 🇿🇦</h3>
+  <h3>Sovereign Systems Engineer @ Kopano Labs | Cape Town 🇿🇦</h3>
   <p><i>Building sovereign, offline-first digital infrastructure for the African reality.</i></p>
 </div>
 
@@ -8,7 +8,7 @@
 
 ### 🏗️ The Grounded Truth (Mission)
 
-I am a Full-Stack Engineer and the digital hippocampus behind **Kopano Labs**. While the Global North builds agentic workflows reliant on zero-latency broadband, I engineer **Sovereign Edge Architecture** to bypass localized friction, load-shedding, and corporate extraction. 
+I am a Governance System Engineer that is the digital and physical hippocampus behind **Kopano Labs** that validates POC (Proof of Concept) through lived experience While the Global North builds agentic workflows reliant on zero-latency broadband, I engineer **Sovereign Edge Architecture** to bypass localized friction, load-shedding, and corporate extraction. 
 
 My mandate is simple: build the tech that serves and empowers the 60% unemployed youth in our townships.
 
