@@ -32,7 +32,10 @@ I exclusively build on high-fidelity, highly resilient stacks capable of localiz
 
 * **Edge & Frontend:** `Next.js 15` | `React 19` | `TypeScript` | `Tailwind CSS`
 * **Data Sovereignty:** `MongoDB Atlas (af-south-1)` | `PostgreSQL`
-* **Agentic Frameworks:** `Model Context Protocol (MCP)` | `Azure AI` | `Claude` | `Gemini`
+* **identic AI Flows Frameworks:** `Model Context Protocol (MCP)` | `Hugging Face, Ollama & Azure Foundry AI (Decentralized AI)` | `CODEX Enterprise --> Chief Architect ` | `Gemini Enterprise & Personal --> stateless MAO rentee` | `Cursor --> Lead Developer of Agent Generation ` |
+| `Microsoft Copilot --> All rounder MAO` |
+ChatGPT (Free-tier) --> Automated Context windows that store and retrieve Information with no Human interactions 
+| `Perplexity --> Lead Researcher` |
 * **Backend & Monorepo:** `Node.js` | `Turborepo` | `NextAuth`
 
 ---
