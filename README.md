@@ -53,5 +53,6 @@ ChatGPT (Free-tier) --> Automated Context windows that store and retrieve Inform
 <br/>
 
 <div align="center">
-  <p><i>Currently: CPUT Computer Engineering Student and John's Hopkins University Student and Robert Kenndy College | Eradicating the 31.8% unemployment gap</i></p>
+  <p><i>Currently: CPUT Computer Engineering Student, John's Hopkins University Student & Robert Kenndy College | 
+    Eradicating the 31.8% unemployment gap</i></p>
 </div>
