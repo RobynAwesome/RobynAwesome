@@ -106,6 +106,35 @@ Do not promote FOC to POC through repetition or memory.
 
 ---
 
+# Project 002 — RobynAwesome/Kopano-Labs-Website
+
+**Role:** Dedicated public website source for KopanoLabs.com  
+**Repository:** `RobynAwesome/Kopano-Labs-Website`  
+**Default branch:** `main`  
+**Memory priority:** HIGH  
+**Established in registry:** 2026-08-08
+
+## Canonical boundaries
+
+- This is the canonical GitHub repository for future **KopanoLabs.com website implementation**.
+- `Kopano-Labs/Introduction-to-MCP` remains the ecosystem architecture, Schematics, Studio lineage, and source-authority donor.
+- `RobynAwesome/Money-managing-app` is unrelated to KopanoLabs.com production and must never be repurposed as website source.
+- `RobynAwesome/cars4mars-landingpage` is retired and must not be treated as a production dependency.
+
+## What this repository currently proves
+
+- a dedicated Vite + React + TypeScript website codebase now exists;
+- the public information architecture includes Labs, Systems, Cars4Mars, and Proof/lineage surfaces;
+- public indexing metadata (`robots.txt`, `sitemap.xml`) and `release.json` are versioned with the source;
+- the repository carries its own production-gate workflow;
+- source lineage back to `Kopano-Labs/Introduction-to-MCP` is documented explicitly.
+
+## Validation boundary
+
+Repository implementation does **not** by itself prove that `https://KopanoLabs.com` is serving this source. Production parity must be validated independently against the live domain and deployment receipt.
+
+---
+
 ## Future project entries
 
 Add every GitHub project as it becomes relevant. Each entry should contain:
@@ -123,7 +152,7 @@ Current validation boundary
 Last verified date / receipt
 ```
 
-The first anchor remains `Kopano-Labs/Introduction-to-MCP` unless the user explicitly changes the memory hierarchy.
+The ecosystem anchor remains `Kopano-Labs/Introduction-to-MCP`. Website implementation authority for KopanoLabs.com is `RobynAwesome/Kopano-Labs-Website` unless the user explicitly changes that boundary.
 
 ---
 
