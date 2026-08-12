@@ -159,6 +159,7 @@ skills.md
 Additional project anchors include:
 
 - `README.md` — public project/world entry point and current proof boundaries;
+- `AGENTS.md` — stateless-renter first-load/routing instructions;
 - `skills/README.md` — portable skill package index;
 - `skills/distribution/` — stateless-renter/provider distribution contracts;
 - `packages/conceptual/` — CEEP, CCP, POC-vs-FOC, framework registry, and conceptual receipts;
@@ -178,7 +179,10 @@ Current portable skill catalog includes:
 ```text
 project-jennifer
 cdp-conceptual-divergence
+ceep-conceptual-evaluation
+poc-foc-evaluation
 ccp-conceptual-convergence
+ncmp-concept-intake
 cag-communication-attention
 rag-governed-retrieval
 jennifer-stateless-renter
@@ -186,25 +190,35 @@ forge-rivm
 authored-relational-attention
 ```
 
-This routing surface is intended to let stateless renters and compatible skill hosts use Project Jennifer workflows without acquiring landlord authority over memory, canon, source privacy, or user intent.
+This routing surface lets stateless renters and compatible skill hosts use Project Jennifer workflows without acquiring landlord authority over memory, canon, source privacy, or user intent.
 
-## CDP / CCP proof boundary
-
-Project Jennifer currently distinguishes the two conceptual protocols deliberately:
+## Conceptual-suite proof boundary
 
 ```text
 CDP — Conceptual Divergence Protocol
      asks: what could this become?
-     current state: canonically specified + portable workflow skill
-     dedicated packages/conceptual/src/cdp runtime module: NOT currently proven
+     state: specified + portable workflow
+     dedicated packages/conceptual/src/cdp module: NOT currently proven
+
+CEEP — Conceptual Evaluation Engine
+       state: portable workflow + coded TypeScript engine
+       implementation: packages/conceptual/src/ceep/
+
+POC-vs-FOC
+       state: portable workflow + coded TypeScript evaluator
+       implementation: packages/conceptual/src/pocvsfoc/
 
 CCP — Conceptual Convergence Protocol
      asks: what consistently survives evaluation/evidence?
-     current state: portable workflow + coded TypeScript implementation
+     state: portable workflow + coded TypeScript implementation
      implementation: packages/conceptual/src/ccp/
+
+NCMP — New Concept MMAO Protocol
+      state: portable workflow + coded storage-agnostic/in-memory registry
+      authority: agents may propose; human architect recognition is mandatory
 ```
 
-Do not flatten those proof states simply because both are exposed through `SKILL.md`.
+Do not flatten those proof states simply because each is exposed through `SKILL.md`.
 
 The conceptual reasoning spine is:
 
@@ -214,6 +228,7 @@ CDP
 → POC-vs-FOC evidence boundary
 → CCP
 → canonical/evolution receipt
+→ NCMP when genuine agent-originated novelty requires recognition + registration
 ```
 
 ## Source and authority boundary
@@ -256,7 +271,7 @@ A `SKILL.md` file proves a portable workflow contract exists. It does not by its
 - runtime success;
 - canonical promotion.
 
-Inspect the current target source and current validation receipts before making those claims.
+Inspect current target source and validation receipts before making those claims.
 
 The model/renter is never the sovereign source of truth. The current human instruction governs task intent; repository evidence governs implementation truth; receipts govern proof.
 
