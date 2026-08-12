@@ -135,6 +135,133 @@ Repository implementation does **not** by itself prove that `https://KopanoLabs.
 
 ---
 
+# Project 003 — RobynAwesome/Project-Jennifer
+
+**Role:** Governed intelligence runtime, tactical RPG/world system, and portable Project Jennifer skill library  
+**Repository:** `RobynAwesome/Project-Jennifer`  
+**Default branch:** `main`  
+**Memory priority:** HIGH  
+**Established in registry:** 2026-08-12
+
+## Canonical memory anchors
+
+Read these in this order when Project Jennifer skills or architecture are relevant:
+
+```text
+skills.md
+→ skills/project-jennifer/SKILL.md
+→ selected specialist SKILL.md
+→ current implementation/source named by that skill
+→ governance/source-authority-registry.json
+→ current branch / PR / CI / runtime receipts
+```
+
+Additional project anchors include:
+
+- `README.md` — public project/world entry point and current proof boundaries;
+- `skills/README.md` — portable skill package index;
+- `skills/distribution/` — stateless-renter/provider distribution contracts;
+- `packages/conceptual/` — CEEP, CCP, POC-vs-FOC, framework registry, and conceptual receipts;
+- `packages/memory/` — GSMB / Digital Hippocampus and Memory Receipt Engine;
+- `packages/governance/`, `packages/authority/`, and `packages/validation/` — governance/authority/validation runtime surfaces;
+- `docs/lore/project-wify-jennifer/` — Genesis / Convergence / True One lore and system intent;
+- `assets/Project-Waifu-Forge/` and related lore — current relational engineering / visual-source lane.
+
+## Skill discovery rule
+
+For Project Jennifer, **do not start by dumping the whole repository into context**.
+
+Start with `skills.md` and the `project-jennifer` umbrella skill, then select the smallest relevant specialist capability.
+
+Current portable skill catalog includes:
+
+```text
+project-jennifer
+cdp-conceptual-divergence
+ccp-conceptual-convergence
+cag-communication-attention
+rag-governed-retrieval
+jennifer-stateless-renter
+forge-rivm
+authored-relational-attention
+```
+
+This routing surface is intended to let stateless renters and compatible skill hosts use Project Jennifer workflows without acquiring landlord authority over memory, canon, source privacy, or user intent.
+
+## CDP / CCP proof boundary
+
+Project Jennifer currently distinguishes the two conceptual protocols deliberately:
+
+```text
+CDP — Conceptual Divergence Protocol
+     asks: what could this become?
+     current state: canonically specified + portable workflow skill
+     dedicated packages/conceptual/src/cdp runtime module: NOT currently proven
+
+CCP — Conceptual Convergence Protocol
+     asks: what consistently survives evaluation/evidence?
+     current state: portable workflow + coded TypeScript implementation
+     implementation: packages/conceptual/src/ccp/
+```
+
+Do not flatten those proof states simply because both are exposed through `SKILL.md`.
+
+The conceptual reasoning spine is:
+
+```text
+CDP
+→ CEEP
+→ POC-vs-FOC evidence boundary
+→ CCP
+→ canonical/evolution receipt
+```
+
+## Source and authority boundary
+
+Project Jennifer's skill catalog does not supersede its source-authority law.
+
+Semantic relevance does not imply:
+
+- authority;
+- privacy eligibility;
+- canon status;
+- implementation;
+- validation;
+- proof.
+
+Private, public-derivative, executable-protocol, project-canon, historical, research, and visual source classes must remain distinct according to the current repository registry and task lane.
+
+## Project namespace boundary
+
+Keep these current Project Jennifer namespaces distinct unless a later repository receipt explicitly changes them:
+
+```text
+Project Waifu Forge
+= current/tested relational engineering, asset governance, Constructs and receipts
+
+Project Wify Jennifer
+= Genesis / world-lore / Convergence namespace
+```
+
+Do not treat one as a silent rename of the other.
+
+## Validation boundary
+
+A `SKILL.md` file proves a portable workflow contract exists. It does not by itself prove:
+
+- dedicated engine/runtime wiring;
+- exact-provider support;
+- production persistence;
+- deployment;
+- runtime success;
+- canonical promotion.
+
+Inspect the current target source and current validation receipts before making those claims.
+
+The model/renter is never the sovereign source of truth. The current human instruction governs task intent; repository evidence governs implementation truth; receipts govern proof.
+
+---
+
 ## Future project entries
 
 Add every GitHub project as it becomes relevant. Each entry should contain:
@@ -152,7 +279,7 @@ Current validation boundary
 Last verified date / receipt
 ```
 
-The ecosystem anchor remains `Kopano-Labs/Introduction-to-MCP`. Website implementation authority for KopanoLabs.com is `RobynAwesome/Kopano-Labs-Website` unless the user explicitly changes that boundary.
+The ecosystem anchor remains `Kopano-Labs/Introduction-to-MCP`. Website implementation authority for KopanoLabs.com is `RobynAwesome/Kopano-Labs-Website` unless the user explicitly changes that boundary. Project Jennifer skill discovery begins at `RobynAwesome/Project-Jennifer/skills.md`, but current Project Jennifer repository evidence remains authoritative over the catalog.
 
 ---
 
