@@ -1,0 +1,87 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kholofelo Robyn Rababalela — Sovereign Systems Engineer</title>
+  <desc id="desc">Animated profile banner showing a governed systems network built from Cape Town, South Africa.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07130F"/>
+      <stop offset="0.45" stop-color="#102A20"/>
+      <stop offset="0.72" stop-color="#1A1730"/>
+      <stop offset="1" stop-color="#090B12"/>
+    </linearGradient>
+    <linearGradient id="line" x1="140" y1="180" x2="1060" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFCE32"/>
+      <stop offset="0.48" stop-color="#4CE6B3"/>
+      <stop offset="1" stop-color="#9B7BFF"/>
+    </linearGradient>
+    <radialGradient id="pulse" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 180) rotate(90) scale(170 420)">
+      <stop stop-color="#4CE6B3" stop-opacity="0.17"/>
+      <stop offset="1" stop-color="#4CE6B3" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1164" height="324" rx="22" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <ellipse cx="600" cy="180" rx="430" ry="170" fill="url(#pulse)">
+    <animate attributeName="rx" values="380;460;380" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="6s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <g opacity="0.22">
+    <path d="M95 76H1105" stroke="#FFFFFF" stroke-opacity="0.18"/>
+    <path d="M95 284H1105" stroke="#FFFFFF" stroke-opacity="0.18"/>
+    <path d="M190 42V318" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <path d="M1010 42V318" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  </g>
+
+  <path id="route" d="M145 235C290 110 390 278 530 165C655 65 756 247 1030 126" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="10 14" opacity="0.7">
+    <animate attributeName="stroke-dashoffset" values="0;-96" dur="5s" repeatCount="indefinite"/>
+  </path>
+
+  <g filter="url(#glow)">
+    <circle cx="145" cy="235" r="5" fill="#FFCE32">
+      <animate attributeName="r" values="4;8;4" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1030" cy="126" r="5" fill="#9B7BFF">
+      <animate attributeName="r" values="4;8;4" dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="6" fill="#4CE6B3">
+      <animateMotion dur="8s" repeatCount="indefinite" path="M145 235C290 110 390 278 530 165C655 65 756 247 1030 126"/>
+    </circle>
+  </g>
+
+  <text x="600" y="126" text-anchor="middle" fill="#F7F7F5" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="38" letter-spacing="2">KHOLOFELO ROBYN RABABALELA</text>
+  <text x="600" y="164" text-anchor="middle" fill="#D8E7E1" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="18" letter-spacing="4">SOVEREIGN SYSTEMS ENGINEER · CAPE TOWN 🇿🇦</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+    <g>
+      <animate attributeName="opacity" values="1;1;0;0;0;0;0;1" keyTimes="0;0.18;0.24;0.58;0.7;0.88;0.94;1" dur="9s" repeatCount="indefinite"/>
+      <text x="600" y="212" fill="#FFCE32">POC BEFORE NARRATIVE · RECEIPTS BEFORE CLAIMS</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0;0;0" keyTimes="0;0.22;0.28;0.52;0.58;0.9;0.95;1" dur="9s" repeatCount="indefinite"/>
+      <text x="600" y="212" fill="#4CE6B3">KPGS · KOPANO CONTEXT · ADAPTIVE PWA · MMAO</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" keyTimes="0;0.35;0.55;0.62;0.68;0.9;0.96;1" dur="9s" repeatCount="indefinite"/>
+      <text x="600" y="212" fill="#B8A7FF">PROJECT JENNIFER · MEMORY RECEIPTS · GOVERNED INTELLIGENCE</text>
+    </g>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#B8C7C1" text-anchor="middle">
+    <text x="260" y="305">WORKING</text>
+    <text x="430" y="305">CONNECTED</text>
+    <text x="600" y="305">CURRENT</text>
+    <text x="770" y="305">VISIBLE</text>
+    <text x="940" y="305">EVIDENCED</text>
+  </g>
+  <g stroke="url(#line)" stroke-width="2" opacity="0.85">
+    <path d="M295 300H395"/><path d="M465 300H565"/><path d="M635 300H735"/><path d="M805 300H905"/>
+  </g>
+</svg>
