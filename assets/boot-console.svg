@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">RobynAwesome sovereign boot console</title>
+  <desc id="desc">Animated terminal-style system boot showing KPGS, Cape Town and the active product estate.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050807"/>
+      <stop offset="0.55" stop-color="#0B1712"/>
+      <stop offset="1" stop-color="#160F24"/>
+    </linearGradient>
+    <linearGradient id="rail" x1="120" y1="0" x2="1080" y2="0">
+      <stop stop-color="#FFCE32"/><stop offset="0.5" stop-color="#42E8B4"/><stop offset="1" stop-color="#9B7BFF"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#6CF1C5" stroke-opacity="0.045"/></pattern>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}
+      .faint{fill:#9BB8AC}.bright{fill:#F5F7F5}.green{fill:#56E8B7}.gold{fill:#FFCE32}.violet{fill:#A98BFF}
+      .line{opacity:0;animation:show 8s infinite}.l1{animation-delay:.2s}.l2{animation-delay:1s}.l3{animation-delay:1.8s}.l4{animation-delay:2.6s}.l5{animation-delay:3.4s}.l6{animation-delay:4.2s}.l7{animation-delay:5s}
+      .blink{animation:blink 1s steps(1) infinite}.pulse{animation:pulse 2.4s ease-in-out infinite;transform-origin:center}.scan{animation:scan 5s linear infinite}
+      .dash{stroke-dasharray:12 16;animation:dash 8s linear infinite}
+      @keyframes show{0%,7%{opacity:0;transform:translateY(7px)}12%,78%{opacity:1;transform:translateY(0)}92%,100%{opacity:0}}
+      @keyframes blink{50%{opacity:0}}@keyframes pulse{50%{opacity:.35;transform:scale(1.22)}}
+      @keyframes scan{from{transform:translateY(-80px)}to{transform:translateY(560px)}}@keyframes dash{to{stroke-dashoffset:-240}}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}.line{opacity:1}}
+    </style>
+  </defs>
+  <rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="520" rx="28" fill="url(#grid)"/>
+  <rect x="26" y="24" width="1148" height="472" rx="22" fill="none" stroke="#8BE7C6" stroke-opacity="0.18"/>
+  <circle cx="62" cy="58" r="6" fill="#FF6B6B"/><circle cx="84" cy="58" r="6" fill="#FFCE32"/><circle cx="106" cy="58" r="6" fill="#56E8B7"/>
+  <text x="140" y="64" class="mono faint" font-size="15">ROB YN AWESOME // SOVEREIGN CONTROL ROOM // CAPE TOWN 🇿🇦</text>
+  <line x1="48" y1="88" x2="1152" y2="88" stroke="url(#rail)" stroke-opacity="0.85"/>
+
+  <g class="mono" font-size="21">
+    <text x="76" y="132" class="line l1 green">&gt; booting KPGS...</text>
+    <text x="76" y="170" class="line l2 faint">&gt; recovering governed context...</text>
+    <text x="76" y="208" class="line l3 gold">&gt; POC gate: receipts required</text>
+    <text x="76" y="246" class="line l4 bright">&gt; cape_town_node: ONLINE</text>
+    <text x="76" y="284" class="line l5 violet">&gt; project_jennifer: WORLD_REMEMBERS</text>
+    <text x="76" y="322" class="line l6 green">&gt; estate: KC · KasiLink · Five's Arena · Cars4Mars · AMAPHU</text>
+    <text x="76" y="360" class="line l7 bright">&gt; status: WORKING → CONNECTED → CURRENT → VISIBLE → EVIDENCED → BACKABLE</text>
+    <text x="76" y="414" class="bright" font-size="26">ENTER SYSTEM <tspan class="blink green">█</tspan></text>
+  </g>
+
+  <g transform="translate(912 168)">
+    <circle cx="96" cy="96" r="88" fill="none" stroke="#56E8B7" stroke-opacity="0.18"/>
+    <circle cx="96" cy="96" r="62" fill="none" stroke="#A98BFF" stroke-opacity="0.22" class="dash"/>
+    <circle cx="96" cy="96" r="34" fill="#0D241B" stroke="#FFCE32" stroke-width="2" filter="url(#glow)" class="pulse"/>
+    <text x="96" y="91" text-anchor="middle" class="mono gold" font-size="17">KPGS</text>
+    <text x="96" y="112" text-anchor="middle" class="mono faint" font-size="10">CORE</text>
+    <g fill="#56E8B7"><circle cx="96" cy="8" r="6"/><circle cx="184" cy="96" r="6"/><circle cx="96" cy="184" r="6"/><circle cx="8" cy="96" r="6"/></g>
+    <g class="mono faint" font-size="10"><text x="96" y="-5" text-anchor="middle">KC</text><text x="203" y="100">PJ</text><text x="96" y="210" text-anchor="middle">PKA</text><text x="-22" y="100">MMAO</text></g>
+  </g>
+
+  <rect x="0" y="0" width="1200" height="70" fill="#FFFFFF" opacity="0.035" class="scan"/>
+  <text x="76" y="470" class="mono faint" font-size="12">✝ JESUS IS KING // GOVERNANCE BEFORE DRIFT // BUILD → TEST → RECEIPT</text>
+</svg>
