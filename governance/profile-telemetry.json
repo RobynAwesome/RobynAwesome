@@ -1,0 +1,42 @@
+{
+  "generated_asset": "assets/estate-telemetry.svg",
+  "owner": "RobynAwesome",
+  "systems": [
+    {
+      "label": "Kopano Context",
+      "repo": "RobynAwesome/Introduction-to-MCP",
+      "state": "ACTIVE CORE",
+      "signal": "KC / KPGS"
+    },
+    {
+      "label": "Project Jennifer",
+      "repo": "RobynAwesome/Project-Jennifer",
+      "state": "BUILDING",
+      "signal": "WORLD REMEMBERS"
+    },
+    {
+      "label": "KasiLink",
+      "repo": "RobynAwesome/KasiLink",
+      "state": "LIVE",
+      "signal": "WORK / TRUST"
+    },
+    {
+      "label": "Five's Arena",
+      "repo": "Kopano-Labs/Bookit-5s-Arena",
+      "state": "PRODUCTION",
+      "signal": "BOOK / PLAY"
+    },
+    {
+      "label": "Cars4Mars",
+      "repo": "RobynAwesome/cars4mars-project",
+      "state": "VALIDATING",
+      "signal": "PHYSICAL PROOF"
+    },
+    {
+      "label": "AMAPHU",
+      "repo": "RobynAwesome/amaphu-app",
+      "state": "PHASED BUILD",
+      "signal": "MEDIA SYSTEM"
+    }
+  ]
+}
