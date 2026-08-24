@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Generate the public GitHub profile estate telemetry SVG.
 
-The semantic state labels are governed in governance/profile-telemetry.json.
-GitHub activity metadata is observational and is never allowed to rewrite those labels.
+Semantic state labels are governed in governance/profile-telemetry.json.
+GitHub activity metadata is observational and may never rewrite those labels.
+The output is intentionally stable unless observable repository facts change.
 """
 
 from __future__ import annotations
@@ -36,29 +37,28 @@ def github_repo(repo: str) -> dict:
         return {}
 
 
-def age_label(pushed_at: str | None, now: dt.datetime) -> str:
+def push_label(pushed_at: str | None) -> tuple[str, dt.datetime | None]:
     if not pushed_at:
-        return "activity unavailable"
+        return "activity unavailable", None
     try:
         pushed = dt.datetime.fromisoformat(pushed_at.replace("Z", "+00:00"))
     except ValueError:
-        return "activity unavailable"
-    days = max(0, (now - pushed).days)
-    if days == 0:
-        return "pushed today"
-    if days == 1:
-        return "pushed 1 day ago"
-    return f"pushed {days} days ago"
+        return "activity unavailable", None
+    return f"last push {pushed:%Y-%m-%d}", pushed
 
 
 def render(config: dict) -> str:
-    now = dt.datetime.now(dt.timezone.utc)
     systems = []
+    latest_push: dt.datetime | None = None
+
     for item in config["systems"]:
         meta = github_repo(item["repo"])
+        activity, pushed = push_label(meta.get("pushed_at"))
+        if pushed and (latest_push is None or pushed > latest_push):
+            latest_push = pushed
         systems.append({
             **item,
-            "activity": age_label(meta.get("pushed_at"), now),
+            "activity": activity,
             "stars": meta.get("stargazers_count"),
         })
 
@@ -76,7 +76,10 @@ def render(config: dict) -> str:
 </g>''')
         y += 58
 
-    generated = now.strftime("%Y-%m-%d %H:%M UTC")
+    latest = "LATEST OBSERVED REPO PUSH unavailable"
+    if latest_push:
+        latest = f"LATEST OBSERVED REPO PUSH {latest_push:%Y-%m-%d}"
+
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
 <title id="title">RobynAwesome estate telemetry</title>
 <desc id="desc">Governed semantic system states with observational GitHub repository activity.</desc>
@@ -93,7 +96,7 @@ def render(config: dict) -> str:
 <line x1="62" y1="112" x2="1138" y2="112" stroke="#77DDBB" stroke-opacity=".22"/>
 {''.join(rows)}
 <line x1="62" y1="510" x2="1138" y2="510" stroke="#77DDBB" stroke-opacity=".16"/>
-<text x="62" y="536" class="small">GENERATED {generated} · WORKING → CONNECTED → CURRENT → VISIBLE → EVIDENCED → BACKABLE</text>
+<text x="62" y="536" class="small">{latest} · WORKING → CONNECTED → CURRENT → VISIBLE → EVIDENCED → BACKABLE</text>
 </svg>'''
 
 
