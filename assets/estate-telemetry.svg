@@ -1,13 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
-<title id="title">RobynAwesome estate telemetry</title><desc id="desc">Governed semantic states with GitHub activity refreshed by automation after merge.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050807"/><stop offset=".6" stop-color="#0D1713"/><stop offset="1" stop-color="#14101E"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#77DDBB" stroke-opacity=".035"/></pattern><style>.name{font:700 18px Inter,system-ui,sans-serif;fill:#F3F6F4}.state{font:700 13px ui-monospace,SFMono-Regular,Menlo,monospace}.meta,.small,.activity{font:12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#AAB8B2}.activity,.small{fill:#83968E}.head{font:800 29px Inter,system-ui,sans-serif;fill:#F5F7F6}.row{opacity:.82;animation:row 6s ease-in-out infinite}.r2{animation-delay:.6s}.r3{animation-delay:1.2s}.r4{animation-delay:1.8s}.r5{animation-delay:2.4s}.r6{animation-delay:3s}.pulse{animation:pulse 2.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes row{50%{opacity:1}}@keyframes pulse{50%{transform:scale(1.35);opacity:.45}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<title id="title">RobynAwesome estate telemetry</title>
+<desc id="desc">Governed semantic system states with observational GitHub repository activity.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050807"/><stop offset=".6" stop-color="#0D1713"/><stop offset="1" stop-color="#14101E"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#77DDBB" stroke-opacity=".035"/></pattern>
+  <style>
+    .name{font:700 18px Inter,system-ui,sans-serif;fill:#F3F6F4}.state{font:700 13px ui-monospace,SFMono-Regular,Menlo,monospace}.meta{font:12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#AAB8B2}.activity{font:12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#83968E}.small{font:11px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#83968E}.head{font:800 29px Inter,system-ui,sans-serif;fill:#F5F7F6}.row{opacity:.82;animation:row 6s ease-in-out infinite}.r2{animation-delay:.6s}.r3{animation-delay:1.2s}.r4{animation-delay:1.8s}.r5{animation-delay:2.4s}.r6{animation-delay:3s}.pulse{animation:pulse 2.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes row{50%{opacity:1}}@keyframes pulse{50%{transform:scale(1.35);opacity:.45}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+</defs>
 <rect width="1200" height="560" rx="28" fill="url(#bg)"/><rect width="1200" height="560" rx="28" fill="url(#grid)"/>
-<text x="62" y="62" class="head">KOPANO ESTATE // PUBLIC TELEMETRY</text><text x="62" y="90" class="small">Semantic states are governed. Repository activity is observational and refreshed by GitHub Actions.</text><line x1="62" y1="112" x2="1138" y2="112" stroke="#77DDBB" stroke-opacity=".22"/>
-<g class="row"><circle cx="74" cy="148" r="7" fill="#52E2B3" class="pulse"/><text x="98" y="154" class="name">Kopano Context</text><text x="390" y="154" class="state" fill="#52E2B3">ACTIVE CORE</text><text x="650" y="154" class="meta">KC / KPGS</text><text x="1120" y="154" text-anchor="end" class="activity">activity refresh pending</text></g>
-<g class="row r2"><circle cx="74" cy="206" r="7" fill="#A98BFF" class="pulse"/><text x="98" y="212" class="name">Project Jennifer</text><text x="390" y="212" class="state" fill="#A98BFF">BUILDING</text><text x="650" y="212" class="meta">WORLD REMEMBERS</text><text x="1120" y="212" text-anchor="end" class="activity">activity refresh pending</text></g>
-<g class="row r3"><circle cx="74" cy="264" r="7" fill="#FFCE32" class="pulse"/><text x="98" y="270" class="name">KasiLink</text><text x="390" y="270" class="state" fill="#FFCE32">LIVE</text><text x="650" y="270" class="meta">WORK / TRUST</text><text x="1120" y="270" text-anchor="end" class="activity">activity refresh pending</text></g>
-<g class="row r4"><circle cx="74" cy="322" r="7" fill="#58D6FF" class="pulse"/><text x="98" y="328" class="name">Five's Arena</text><text x="390" y="328" class="state" fill="#58D6FF">PRODUCTION</text><text x="650" y="328" class="meta">BOOK / PLAY</text><text x="1120" y="328" text-anchor="end" class="activity">activity refresh pending</text></g>
-<g class="row r5"><circle cx="74" cy="380" r="7" fill="#FF7E70" class="pulse"/><text x="98" y="386" class="name">Cars4Mars</text><text x="390" y="386" class="state" fill="#FF7E70">VALIDATING</text><text x="650" y="386" class="meta">PHYSICAL PROOF</text><text x="1120" y="386" text-anchor="end" class="activity">activity refresh pending</text></g>
-<g class="row r6"><circle cx="74" cy="438" r="7" fill="#FF87C8" class="pulse"/><text x="98" y="444" class="name">AMAPHU</text><text x="390" y="444" class="state" fill="#FF87C8">PHASED BUILD</text><text x="650" y="444" class="meta">MEDIA SYSTEM</text><text x="1120" y="444" text-anchor="end" class="activity">activity refresh pending</text></g>
-<line x1="62" y1="510" x2="1138" y2="510" stroke="#77DDBB" stroke-opacity=".16"/><text x="62" y="536" class="small">SEEDED 2026-08-24 · WORKING → CONNECTED → CURRENT → VISIBLE → EVIDENCED → BACKABLE</text>
+<text x="62" y="62" class="head">KOPANO ESTATE // PUBLIC TELEMETRY</text>
+<text x="62" y="90" class="small">Semantic states are governed. Repository activity is observational. No activity metric may silently rewrite system truth.</text>
+<line x1="62" y1="112" x2="1138" y2="112" stroke="#77DDBB" stroke-opacity=".22"/>
+<g class="row r1">
+  <circle cx="74" cy="148" r="7" fill="#52E2B3" class="pulse"/>
+  <text x="98" y="154" class="name">Kopano Context</text>
+  <text x="390" y="154" class="state" fill="#52E2B3">ACTIVE CORE</text>
+  <text x="650" y="154" class="meta">KC / KPGS</text>
+  <text x="1120" y="154" text-anchor="end" class="activity">last push 2026-08-24 · ★ 5</text>
+</g><g class="row r2">
+  <circle cx="74" cy="206" r="7" fill="#A98BFF" class="pulse"/>
+  <text x="98" y="212" class="name">Project Jennifer</text>
+  <text x="390" y="212" class="state" fill="#A98BFF">BUILDING</text>
+  <text x="650" y="212" class="meta">WORLD REMEMBERS</text>
+  <text x="1120" y="212" text-anchor="end" class="activity">last push 2026-08-24 · ★ 4</text>
+</g><g class="row r3">
+  <circle cx="74" cy="264" r="7" fill="#FFCE32" class="pulse"/>
+  <text x="98" y="270" class="name">KasiLink</text>
+  <text x="390" y="270" class="state" fill="#FFCE32">LIVE</text>
+  <text x="650" y="270" class="meta">WORK / TRUST</text>
+  <text x="1120" y="270" text-anchor="end" class="activity">last push 2026-08-20 · ★ 2</text>
+</g><g class="row r4">
+  <circle cx="74" cy="322" r="7" fill="#58D6FF" class="pulse"/>
+  <text x="98" y="328" class="name">Five&#x27;s Arena</text>
+  <text x="390" y="328" class="state" fill="#58D6FF">PRODUCTION</text>
+  <text x="650" y="328" class="meta">BOOK / PLAY</text>
+  <text x="1120" y="328" text-anchor="end" class="activity">last push 2026-08-09 · ★ 6</text>
+</g><g class="row r5">
+  <circle cx="74" cy="380" r="7" fill="#FF7E70" class="pulse"/>
+  <text x="98" y="386" class="name">Cars4Mars</text>
+  <text x="390" y="386" class="state" fill="#FF7E70">VALIDATING</text>
+  <text x="650" y="386" class="meta">PHYSICAL PROOF</text>
+  <text x="1120" y="386" text-anchor="end" class="activity">last push 2026-08-18 · ★ 0</text>
+</g><g class="row r6">
+  <circle cx="74" cy="438" r="7" fill="#FF87C8" class="pulse"/>
+  <text x="98" y="444" class="name">AMAPHU</text>
+  <text x="390" y="444" class="state" fill="#FF87C8">PHASED BUILD</text>
+  <text x="650" y="444" class="meta">MEDIA SYSTEM</text>
+  <text x="1120" y="444" text-anchor="end" class="activity">last push 2026-08-22 · ★ 2</text>
+</g>
+<line x1="62" y1="510" x2="1138" y2="510" stroke="#77DDBB" stroke-opacity=".16"/>
+<text x="62" y="536" class="small">LATEST OBSERVED REPO PUSH 2026-08-24 · WORKING → CONNECTED → CURRENT → VISIBLE → EVIDENCED → BACKABLE</text>
 </svg>
