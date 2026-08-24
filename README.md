@@ -18,9 +18,30 @@
   ✝️ <strong>Jesus is King.</strong> · POC before narrative · receipts before claims · governance before drift
 </p>
 
+<p align="center">
+  <img src="./assets/boot-console.svg" alt="Animated RobynAwesome sovereign control room boot console" width="100%" />
+</p>
+
 ---
 
-## 🧭 What I am building
+## 🧭 Choose your path
+
+<p align="center">
+  <img src="./assets/choose-your-path.svg" alt="Animated portal map through the RobynAwesome product estate" width="100%" />
+</p>
+
+<div align="center">
+  <a href="https://github.com/RobynAwesome/Introduction-to-MCP"><img src="https://img.shields.io/badge/ENTER_KOPANO_CONTEXT-07130F?style=for-the-badge&logo=github&logoColor=52E2B3" alt="Enter Kopano Context" /></a>
+  <a href="https://github.com/RobynAwesome/Project-Jennifer"><img src="https://img.shields.io/badge/ENTER_PROJECT_JENNIFER-171126?style=for-the-badge&logo=github&logoColor=A98BFF" alt="Enter Project Jennifer" /></a>
+  <a href="https://kasilink.com/"><img src="https://img.shields.io/badge/ENTER_KASILINK-1C4A35?style=for-the-badge&logoColor=FFCE32" alt="Enter KasiLink" /></a>
+  <a href="https://fivesarena.com/"><img src="https://img.shields.io/badge/ENTER_FIVE'S_ARENA-111111?style=for-the-badge&logoColor=58D6FF" alt="Enter Five's Arena" /></a>
+  <a href="https://github.com/RobynAwesome/cars4mars-project"><img src="https://img.shields.io/badge/TRACE_CARS4MARS-30110D?style=for-the-badge&logo=github&logoColor=FF7E70" alt="Trace Cars4Mars" /></a>
+  <a href="https://github.com/RobynAwesome/amaphu-app"><img src="https://img.shields.io/badge/ENTER_AMAPHU-2B1020?style=for-the-badge&logo=github&logoColor=FF87C8" alt="Enter AMAPHU" /></a>
+</div>
+
+---
+
+## 🏗️ What I am building
 
 My work sits where **AI orchestration, adaptive web systems, persistent state, robotics, governance and South African infrastructure constraints** meet.
 
@@ -37,6 +58,37 @@ WORKING → CONNECTED → CURRENT → VISIBLE → EVIDENCED → BACKABLE
 <p align="center">
   <img src="./assets/ecosystem-flow.svg" alt="Animated Kopano ecosystem graph" width="100%" />
 </p>
+
+---
+
+## 📡 Estate telemetry
+
+<p align="center">
+  <img src="./assets/estate-telemetry.svg" alt="Generated public telemetry for the active RobynAwesome and Kopano Labs estate" width="100%" />
+</p>
+
+The **semantic state** of each system is governed in [`governance/profile-telemetry.json`](governance/profile-telemetry.json). GitHub activity is observational only. A scheduled GitHub Action regenerates the public SVG without allowing activity metrics to silently rewrite system truth.
+
+<details>
+<summary><strong>OPEN // How the telemetry works</strong></summary>
+<br/>
+
+```text
+GOVERNED SYSTEM STATE
+        +
+PUBLIC GITHUB ACTIVITY
+        ↓
+GENERATED SVG
+        ↓
+PROFILE SURFACE
+```
+
+- `state` is declared intentionally.
+- `pushed_at` and stars are fetched as observations.
+- missing API data degrades to `activity unavailable` instead of inventing a value.
+- only `assets/estate-telemetry.svg` is auto-committed by the workflow.
+
+</details>
 
 ---
 
@@ -61,6 +113,10 @@ Project Jennifer is one of the clearest visual and technical expressions of what
 **choice → consequence → receipt → persistence → later gameplay**
 
 <p align="center">
+  <img src="./assets/jennifer-cinematic-strip.svg" alt="Animated Project Jennifer choice-to-persistence cinematic strip" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/RobynAwesome/Project-Jennifer/tree/main/assets/Project-Waifu-Forge">
     <img src="https://raw.githubusercontent.com/RobynAwesome/Project-Jennifer/main/assets/Project-Waifu-Forge/source/couple-project-poster-001.png" alt="Project Waifu Forge poster from Project Jennifer" width="48%" />
   </a>
@@ -81,7 +137,34 @@ Project Jennifer is one of the clearest visual and technical expressions of what
   </a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/RobynAwesome/Project-Jennifer"><img src="https://img.shields.io/badge/WALK_WITH_JENNIFER-6D5DFB?style=for-the-badge&logo=github&logoColor=white" alt="Walk with Jennifer" /></a>
+  <a href="https://github.com/RobynAwesome/Project-Jennifer/blob/main/docs/architecture/memory-receipt-risk-matrix.md"><img src="https://img.shields.io/badge/INSPECT_THE_RECEIPT-111111?style=for-the-badge&logo=readthedocs&logoColor=52E2B3" alt="Inspect the Memory Receipt architecture" /></a>
+</div>
+
 <p align="center"><sub>Public-lane Project Jennifer / Project Waifu Forge source assets. Visual existence is not treated as runtime canon without a separate governance receipt.</sub></p>
+
+<details>
+<summary><strong>OPEN // Why Jennifer is more than an AI character</strong></summary>
+<br/>
+
+Project Jennifer treats **continuity itself as gameplay**. Important state should survive scene boundaries, conversation boundaries and restarts. AI can propose or interpret, but authoritative change is expected to resolve through governed state and receipts rather than silent narrative drift.
+
+```text
+PLAYER CHOICE
+    ↓
+RELATIONSHIP / WORLD TRANSITION
+    ↓
+VALIDATION
+    ↓
+MEMORY RECEIPT
+    ↓
+PERSISTED STATE
+    ↓
+LATER SCENE REMEMBERS
+```
+
+</details>
 
 ---
 
@@ -95,7 +178,7 @@ I keep finding my handle in public datasets I did not author. Those records are 
 - 🧠 **[tejas-ae/Top-AI-repos](https://github.com/tejas-ae/Top-AI-repos/blob/main/README.md)** — the README's public account/avatar index includes `RobynAwesome`.
 
 <details>
-<summary><strong>Why I care about this</strong></summary>
+<summary><strong>OPEN // Why I care about this</strong></summary>
 <br/>
 
 Self-description is useful, but externally generated public records give a different kind of signal:
@@ -132,21 +215,40 @@ That does not prove that every ranking methodology is correct. It proves that th
 - **AI + orchestration:** Model Context Protocol, Kopano Context, OpenAI / ChatGPT, Codex, Gemini, Copilot, Hugging Face, Ollama, Azure AI Foundry.
 - **Governance:** KPGS, PKA, POCvsFOC, CI/CD evidence gates, provenance and recovery loops.
 
-```text
-PROMPT
-  ↓
-PROPOSAL
-  ↓
-HUMAN / GOVERNANCE DECISION
-  ↓
-ARTIFACT
-  ↓
-COMMIT
-  ↓
-TEST + MEASUREMENT
-  ↓
-PASS / FAIL / UNKNOWN
+### The governed execution loop
+
+```mermaid
+flowchart LR
+    A[Prompt / Human Intent] --> B[Proposal]
+    B --> C{Governance Decision}
+    C -->|approve| D[Artifact]
+    C -->|reject / unknown| H[Revise or Hold]
+    D --> E[Commit]
+    E --> F[Test + Measurement]
+    F --> G{Evidence Gate}
+    G -->|pass| I[Receipt + Visible State]
+    G -->|fail| H
+    I --> J[Next Context]
+    J --> A
 ```
+
+<details>
+<summary><strong>OPEN // KPGS doctrine terminal</strong></summary>
+<br/>
+
+```text
+POC BEFORE NARRATIVE
+RECEIPTS BEFORE CLAIMS
+SOURCE AUTHORITY BEFORE RETRIEVAL CONFIDENCE
+GOVERNANCE BEFORE DRIFT
+UNKNOWN IS A VALID STATE
+FAILURE MUST LEAVE A RECEIPT
+PUBLIC VISUALS MUST NOT SILENTLY BECOME CANON
+```
+
+The point is not bureaucracy. The point is to keep powerful systems **inspectable, recoverable and honest about what they know**.
+
+</details>
 
 ---
 
@@ -171,5 +273,5 @@ PASS / FAIL / UNKNOWN
 <p align="center">
   <strong>Currently:</strong> CPUT Computer Engineering Student · Johns Hopkins University Student · Robert Kennedy College<br/>
   <em>Building governed systems that turn concepts into receipts — from South Africa outward.</em><br/>
-  <sub>Profile rebuilt: 24 August 2026 · visual-first · evidence-first</sub>
+  <sub>Profile evolved: 24 August 2026 · visual-first · evidence-first · living telemetry</sub>
 </p>
