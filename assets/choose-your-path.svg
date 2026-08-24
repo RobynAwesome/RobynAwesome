@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Choose your path through the RobynAwesome estate</title>
+  <desc id="desc">Animated portal map for Kopano Context, Project Jennifer, KasiLink, Five's Arena, Cars4Mars and AMAPHU.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060807"/><stop offset="1" stop-color="#11101A"/></linearGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="8"/></filter>
+    <style>
+      .t{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+      .card{fill:#0D1411;stroke:#7AE6C2;stroke-opacity:.22;stroke-width:1.5}.label{fill:#F4F7F5}.muted{fill:#9BB0A8}.gold{fill:#FFCE32}.green{fill:#52E2B3}.violet{fill:#A48BFF}.cyan{fill:#58D6FF}.pink{fill:#FF87C8}.red{fill:#FF7E70}
+      .node{animation:pulse 3s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.n2{animation-delay:.5s}.n3{animation-delay:1s}.n4{animation-delay:1.5s}.n5{animation-delay:2s}.n6{animation-delay:2.5s}
+      .flow{stroke-dasharray:10 14;animation:flow 8s linear infinite}.glow{opacity:.12;animation:glow 4s ease-in-out infinite}
+      @keyframes pulse{50%{transform:scale(1.035);filter:brightness(1.2)}}@keyframes flow{to{stroke-dashoffset:-240}}@keyframes glow{50%{opacity:.28}}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style>
+  </defs>
+  <rect width="1200" height="680" rx="30" fill="url(#bg)"/>
+  <text x="70" y="72" class="t label" font-size="34" font-weight="800">CHOOSE YOUR PATH</text>
+  <text x="70" y="104" class="m muted" font-size="14">Six doors. One governed estate. Click the matching portal below the graphic.</text>
+
+  <path d="M600 184 C470 195 385 242 320 300 M600 184 C730 195 815 242 880 300 M320 300 C260 360 260 440 300 510 M880 300 C940 360 940 440 900 510 M600 184 L600 510 M320 300 C420 350 500 388 600 510 M880 300 C780 350 700 388 600 510" fill="none" stroke="#6DE2BC" stroke-opacity=".18" stroke-width="2" class="flow"/>
+
+  <g class="node">
+    <rect x="450" y="130" width="300" height="110" rx="22" class="card"/>
+    <circle cx="498" cy="185" r="20" fill="#52E2B3" opacity=".16"/><circle cx="498" cy="185" r="8" class="green"/>
+    <text x="530" y="176" class="t label" font-size="21" font-weight="750">KOPANO CONTEXT</text>
+    <text x="530" y="201" class="m muted" font-size="12">ORCHESTRATION · GOVERNANCE · RECEIPTS</text>
+    <text x="530" y="222" class="m green" font-size="12">CORE / KPGS</text>
+  </g>
+
+  <g class="node n2">
+    <rect x="150" y="265" width="330" height="120" rx="22" class="card"/>
+    <circle cx="200" cy="325" r="22" fill="#A48BFF" opacity=".16"/><path d="M190 325l8 8 16-18" fill="none" stroke="#A48BFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="235" y="308" class="t label" font-size="22" font-weight="750">PROJECT JENNIFER</text>
+    <text x="235" y="334" class="m muted" font-size="12">CHOICE → CONSEQUENCE → MEMORY</text>
+    <text x="235" y="357" class="m violet" font-size="12">WORLD_REMEMBERS</text>
+  </g>
+
+  <g class="node n3">
+    <rect x="720" y="265" width="330" height="120" rx="22" class="card"/>
+    <circle cx="770" cy="325" r="22" fill="#FFCE32" opacity=".16"/><path d="M760 334c10-22 20-22 30 0" fill="none" stroke="#FFCE32" stroke-width="4" stroke-linecap="round"/>
+    <text x="805" y="308" class="t label" font-size="22" font-weight="750">KASILINK</text>
+    <text x="805" y="334" class="m muted" font-size="12">WORK · TRUST · PROXIMITY · ACCESS</text>
+    <text x="805" y="357" class="m gold" font-size="12">TOWNSHIP_FIRST</text>
+  </g>
+
+  <g class="node n4">
+    <rect x="85" y="465" width="310" height="120" rx="22" class="card"/>
+    <circle cx="135" cy="525" r="22" fill="#58D6FF" opacity=".15"/><path d="M122 525h26M135 512v26" stroke="#58D6FF" stroke-width="4" stroke-linecap="round"/>
+    <text x="170" y="508" class="t label" font-size="21" font-weight="750">FIVE'S ARENA</text>
+    <text x="170" y="534" class="m muted" font-size="12">BOOK · PLAY · OPERATE · REPEAT</text>
+    <text x="170" y="557" class="m cyan" font-size="12">PRODUCTION</text>
+  </g>
+
+  <g class="node n5">
+    <rect x="445" y="465" width="310" height="120" rx="22" class="card"/>
+    <circle cx="495" cy="525" r="22" fill="#FF7E70" opacity=".15"/><path d="M482 535l26-20M486 514l23 23" stroke="#FF7E70" stroke-width="4" stroke-linecap="round"/>
+    <text x="530" y="508" class="t label" font-size="21" font-weight="750">CARS4MARS</text>
+    <text x="530" y="534" class="m muted" font-size="12">ROVER · TELEMETRY · PHYSICAL PROOF</text>
+    <text x="530" y="557" class="m red" font-size="12">VALIDATION</text>
+  </g>
+
+  <g class="node n6">
+    <rect x="805" y="465" width="310" height="120" rx="22" class="card"/>
+    <circle cx="855" cy="525" r="22" fill="#FF87C8" opacity=".15"/><path d="M842 525c8-16 18-16 26 0-8 16-18 16-26 0z" fill="none" stroke="#FF87C8" stroke-width="3"/>
+    <text x="890" y="508" class="t label" font-size="21" font-weight="750">AMAPHU</text>
+    <text x="890" y="534" class="m muted" font-size="12">GAME · MANGA · ANIME · MUSIC</text>
+    <text x="890" y="557" class="m pink" font-size="12">ENTERTAINMENT</text>
+  </g>
+
+  <g opacity=".12" filter="url(#soft)" class="glow"><circle cx="600" cy="340" r="170" fill="#52E2B3"/></g>
+  <text x="600" y="638" text-anchor="middle" class="m muted" font-size="12">BUILD → CONNECT → PROVE → ROUTE</text>
+</svg>
