@@ -1,0 +1,42 @@
+name: Regenerate profile telemetry
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-telemetry
+  cancel-in-progress: true
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate telemetry SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate-profile-telemetry.py
+
+      - name: Commit changed telemetry only
+        run: |
+          if git diff --quiet -- assets/estate-telemetry.svg; then
+            echo "No telemetry change to commit."
+            exit 0
+          fi
+          git config user.name "robynawesome-profile-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add assets/estate-telemetry.svg
+          git commit -m "chore(profile): refresh public estate telemetry"
+          git push
