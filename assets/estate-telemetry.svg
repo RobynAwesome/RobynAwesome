@@ -17,7 +17,7 @@
   <text x="98" y="154" class="name">Kopano Context</text>
   <text x="390" y="154" class="state" fill="#52E2B3">ACTIVE CORE</text>
   <text x="650" y="154" class="meta">KC / KPGS</text>
-  <text x="1120" y="154" text-anchor="end" class="activity">last push 2026-08-24 · ★ 6</text>
+  <text x="1120" y="154" text-anchor="end" class="activity">last push 2026-08-29 · ★ 6</text>
 </g><g class="row r2">
   <circle cx="74" cy="206" r="7" fill="#A98BFF" class="pulse"/>
   <text x="98" y="212" class="name">Project Jennifer</text>
@@ -35,7 +35,7 @@
   <text x="98" y="328" class="name">Five&#x27;s Arena</text>
   <text x="390" y="328" class="state" fill="#58D6FF">PRODUCTION</text>
   <text x="650" y="328" class="meta">BOOK / PLAY</text>
-  <text x="1120" y="328" text-anchor="end" class="activity">last push 2026-08-09 · ★ 6</text>
+  <text x="1120" y="328" text-anchor="end" class="activity">last push 2026-08-29 · ★ 6</text>
 </g><g class="row r5">
   <circle cx="74" cy="380" r="7" fill="#FF7E70" class="pulse"/>
   <text x="98" y="386" class="name">Cars4Mars</text>
@@ -50,5 +50,5 @@
   <text x="1120" y="444" text-anchor="end" class="activity">last push 2026-08-22 · ★ 3</text>
 </g>
 <line x1="62" y1="510" x2="1138" y2="510" stroke="#77DDBB" stroke-opacity=".16"/>
-<text x="62" y="536" class="small">LATEST OBSERVED REPO PUSH 2026-08-24 · WORKING → CONNECTED → CURRENT → VISIBLE → EVIDENCED → BACKABLE</text>
+<text x="62" y="536" class="small">LATEST OBSERVED REPO PUSH 2026-08-29 · WORKING → CONNECTED → CURRENT → VISIBLE → EVIDENCED → BACKABLE</text>
 </svg>
