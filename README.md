@@ -82,7 +82,7 @@ You do **not** need to understand my architecture vocabulary to enter the work.
 | **Explore a world** | 💜 [Project Jennifer](https://github.com/RobynAwesome/Project-Jennifer) · 🎨 [AMAPHU](https://github.com/RobynAwesome/amaphu-app) |
 | **Build with me** | 🧠 [Kopano Context / KPGS](https://github.com/RobynAwesome/Introduction-to-MCP) · 🛡️ [Project RUNE](https://github.com/RobynAwesome/Project-Rune) · 🧰 [Agent Skills](https://github.com/RobynAwesome/Skills) |
 | **Study the research** | 🧬 [Project Jennifer architecture](https://github.com/RobynAwesome/Project-Jennifer/tree/main/docs/architecture) · 🧾 [RUNE standards map](https://github.com/RobynAwesome/Project-Rune/blob/main/docs/STANDARDS_MAP.md) · 🧠 [Introduction-to-MCP](https://github.com/RobynAwesome/Introduction-to-MCP) |
-| **Talk / collaborate** | 🤝 [LinkedIn](https://www.linkedin.com/in/kholofelorobynrababalela/) · 🌐 [KRRababalela.com](https://www.krrababalela.com/) · ✉️ [rkholofelo@gmail.com](mailto:rkholofelo@gmail.com) |
+| **Talk / collaborate** | 🤝 [LinkedIn](https://www.linkedin.com/in/kholofelorobynrababalela/) · 🌐 [KRRababalela.com](https://www.krrababalela.com/) |
 
 ---
 
@@ -348,7 +348,6 @@ If something here makes you think *“wait… what are you doing over there?”*
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kholofelorobynrababalela/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rkholofelo@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/RobynAwesome"><img src="https://img.shields.io/badge/Follow_the_builds-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
