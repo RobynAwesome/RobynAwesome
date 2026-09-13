@@ -1,239 +1,259 @@
 <p align="center">
-  <img src="./assets/sovereign-hero.svg" alt="Animated Kholofelo Robyn Rababalela sovereign systems banner" width="100%" />
+  <img src="./assets/sovereign-hero.svg" alt="Kholofelo Robyn Rababalela — architect, research builder and believer" width="100%" />
+</p>
+
+<h1 align="center">Kholofelo “Robyn” Rababalela</h1>
+
+<p align="center">
+  <strong>Architect · Research Builder · Believer</strong><br/>
+  Founder Director @ Kopano Labs · CPUT student · Cape Town, South Africa 🇿🇦
 </p>
 
 <div align="center">
   <a href="https://www.krrababalela.com/"><img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://kopanolabs.com/"><img src="https://img.shields.io/badge/KOPANO_LABS-1C4A35?style=for-the-badge&logo=github&logoColor=white" alt="Kopano Labs" /></a>
   <a href="https://github.com/RobynAwesome/Project-Jennifer"><img src="https://img.shields.io/badge/PROJECT_JENNIFER-6D5DFB?style=for-the-badge&logo=github&logoColor=white" alt="Project Jennifer" /></a>
+  <a href="https://github.com/RobynAwesome/Project-Rune"><img src="https://img.shields.io/badge/PROJECT_RUNE-8A6F2D?style=for-the-badge&logo=github&logoColor=white" alt="Project RUNE" /></a>
   <a href="https://www.linkedin.com/in/kholofelorobynrababalela/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <p align="center">
-  <strong>Founder Director & Sovereign Systems Engineer @ Kopano Labs · Cape Town 🇿🇦</strong><br/>
-  <em>Building evidence-first, offline-first systems that survive contact with reality.</em>
+  ✝️ <strong>Jesus is King.</strong><br/>
+  <em>I want the things I build to serve people before they impress people.</em>
 </p>
 
 <p align="center">
-  ✝️ <strong>Jesus is King.</strong> · POC before narrative · receipts before claims · governance before drift
-</p>
-
-<p align="center">
-  <img src="./assets/boot-console.svg" alt="Animated RobynAwesome sovereign control room boot console" width="100%" />
+  <img src="./assets/boot-console.svg" alt="RobynAwesome sovereign control room" width="100%" />
 </p>
 
 ---
 
-## 🧭 Choose your path
+## 👋 Hi — I’m Robyn
 
-<p align="center">
-  <img src="./assets/choose-your-path.svg" alt="Animated portal map through the RobynAwesome product estate" width="100%" />
-</p>
+I build software, AI systems, games, governance protocols, financial agents, robotics experiments and strange little research machines from Cape Town.
 
-<div align="center">
-  <a href="https://github.com/RobynAwesome/Introduction-to-MCP"><img src="https://img.shields.io/badge/ENTER_KOPANO_CONTEXT-07130F?style=for-the-badge&logo=github&logoColor=52E2B3" alt="Enter Kopano Context" /></a>
-  <a href="https://github.com/RobynAwesome/Project-Jennifer"><img src="https://img.shields.io/badge/ENTER_PROJECT_JENNIFER-171126?style=for-the-badge&logo=github&logoColor=A98BFF" alt="Enter Project Jennifer" /></a>
-  <a href="https://kasilink.com/"><img src="https://img.shields.io/badge/ENTER_KASILINK-1C4A35?style=for-the-badge&logoColor=FFCE32" alt="Enter KasiLink" /></a>
-  <a href="https://fivesarena.com/"><img src="https://img.shields.io/badge/ENTER_FIVE'S_ARENA-111111?style=for-the-badge&logoColor=58D6FF" alt="Enter Five's Arena" /></a>
-  <a href="https://github.com/RobynAwesome/cars4mars-project"><img src="https://img.shields.io/badge/TRACE_CARS4MARS-30110D?style=for-the-badge&logo=github&logoColor=FF7E70" alt="Trace Cars4Mars" /></a>
-  <a href="https://github.com/RobynAwesome/amaphu-app"><img src="https://img.shields.io/badge/ENTER_AMAPHU-2B1020?style=for-the-badge&logo=github&logoColor=FF87C8" alt="Enter AMAPHU" /></a>
-</div>
+But the thread underneath all of it is becoming clearer:
+
+> **How do we give intelligent systems more capability without giving up human authority, identity, accountability, memory or truth?**
+
+I started by building applications. Then I became obsessed with what happens when software **remembers**, **acts**, **coordinates**, **changes the world**, and has to explain why it did so.
+
+That is where most of my work lives now.
+
+I care about people who do not have perfect infrastructure, perfect bandwidth, perfect devices, perfect credentials or time to decode a complicated interface. South African realities — unemployment, transport cost, township infrastructure, education, small business, safety and opportunity — are not “edge cases” in my work. They are design inputs.
 
 ---
 
-## 🏗️ What I am building
+## 🌱 I’ve been evolving
 
-My work sits where **AI orchestration, adaptive web systems, persistent state, robotics, governance and South African infrastructure constraints** meet.
-
-The governing rule is simple:
-
-> **If a system cannot show what changed, why it changed, what evidence supports the change, and what remains unknown, it is not ready to be treated as reality.**
-
-The August 2026 estate target is:
+The current research direction is moving beyond “which AI model is smartest?”
 
 ```text
-WORKING → CONNECTED → CURRENT → VISIBLE → EVIDENCED → BACKABLE
+MODEL      = capability
+INTERFACE  = embodiment
+SEAT       = authority
+IDENTITY   = accountability
+GOVERNANCE = continuity
 ```
 
-<p align="center">
-  <img src="./assets/ecosystem-flow.svg" alt="Animated Kopano ecosystem graph" width="100%" />
-</p>
+A model can change. A UI can change. A vendor can change.
 
----
+The harder question is whether **identity, authority, context, evidence and responsibility survive the change**.
 
-## 📡 Estate telemetry
-
-<p align="center">
-  <img src="./assets/estate-telemetry.svg" alt="Generated public telemetry for the active RobynAwesome and Kopano Labs estate" width="100%" />
-</p>
-
-The **semantic state** of each system is governed in [`governance/profile-telemetry.json`](governance/profile-telemetry.json). GitHub activity is observational only. A scheduled GitHub Action regenerates the public SVG without allowing activity metrics to silently rewrite system truth.
-
-<details>
-<summary><strong>OPEN // How the telemetry works</strong></summary>
-<br/>
+That is why I increasingly treat models as swappable capability layers rather than the owner of the system.
 
 ```text
-GOVERNED SYSTEM STATE
-        +
-PUBLIC GITHUB ACTIVITY
-        ↓
-GENERATED SVG
-        ↓
-PROFILE SURFACE
+PERSISTENCE × CONSISTENCY × CONTEXT
+                ↓
+       GOVERNED CONTINUITY
 ```
 
-- `state` is declared intentionally.
-- `pushed_at` and stars are fetched as observations.
-- missing API data degrades to `activity unavailable` instead of inventing a value.
-- only `assets/estate-telemetry.svg` is auto-committed by the workflow.
-
-</details>
+This is the research spine connecting **KPGS, Project Jennifer, RUNE, Aya, LEFA, Digital Hippocampus, PKA, MMAO/MAO and the wider Kopano Labs estate**.
 
 ---
 
-## ⚡ Active systems
+## 🧭 Choose your door
 
-| System | What it proves | State |
+You do **not** need to understand my architecture vocabulary to enter the work.
+
+| If you are here to… | Start here |
+| :--- | :--- |
+| **Use something** | 🌍 [KasiLink](https://kasilink.com/) · ⚽ [Five’s Arena](https://fivesarena.com/) · 🎮 [Starfall Salvage](https://starfallsalvage.kopanolabs.com/) · 💸 [LEFA](https://lefa-core-live.vercel.app/) |
+| **Explore a world** | 💜 [Project Jennifer](https://github.com/RobynAwesome/Project-Jennifer) · 🎨 [AMAPHU](https://github.com/RobynAwesome/amaphu-app) |
+| **Build with me** | 🧠 [Kopano Context / KPGS](https://github.com/RobynAwesome/Introduction-to-MCP) · 🛡️ [Project RUNE](https://github.com/RobynAwesome/Project-Rune) · 🧰 [Agent Skills](https://github.com/RobynAwesome/Skills) |
+| **Study the research** | 🧬 [Project Jennifer architecture](https://github.com/RobynAwesome/Project-Jennifer/tree/main/docs/architecture) · 🧾 [RUNE standards map](https://github.com/RobynAwesome/Project-Rune/blob/main/docs/STANDARDS_MAP.md) · 🧠 [Introduction-to-MCP](https://github.com/RobynAwesome/Introduction-to-MCP) |
+| **Talk / collaborate** | 🤝 [LinkedIn](https://www.linkedin.com/in/kholofelorobynrababalela/) · 🌐 [KRRababalela.com](https://www.krrababalela.com/) |
+
+---
+
+## 🔥 What I’m building now
+
+| System | What I’m testing | Current public truth |
 | :--- | :--- | :---: |
-| **[Kopano Context / Introduction-to-MCP](https://github.com/RobynAwesome/Introduction-to-MCP)** | MCP-driven orchestration, KPGS governance, context authority, receipts and multi-agent workflows. | `ACTIVE CORE` |
-| **[KasiLink](https://kasilink.com/)** | Township-first work discovery shaped by proximity, trust, utilities and low-friction access. | `LIVE` |
-| **[Five's Arena](https://fivesarena.com/)** · **[source](https://github.com/Kopano-Labs/Bookit-5s-Arena)** | Production venue, bookings, fixtures, customer flows and live arena state. | `PRODUCTION` |
-| **[Project Jennifer](https://github.com/RobynAwesome/Project-Jennifer)** | A tactical RPG + governance simulator where relationship and world state persist through Memory Receipts. | `R&D → VERTICAL SLICES` |
-| **[Cars4Mars](https://github.com/RobynAwesome/cars4mars-project)** | Rover safety/control, simulation, telemetry, edge perception and physical validation gates. | `DESIGN → BUILD` |
-| **[AMAPHU](https://github.com/RobynAwesome/amaphu-app)** | A governed entertainment surface connecting game, manga/anime, music and interactive media. | `PHASED BUILD` |
-| **Partial Knowable Algebra (PKA)** | Private bounded-uncertainty runtime: `X + Y = MAYBE`, POCvsFOC classification and recovery loops. | `PRIVATE R&D` |
+| **[Kopano Context / KPGS](https://github.com/RobynAwesome/Introduction-to-MCP)** | Persistent context, authority, orchestration, receipts, POCvsFOC and multi-agent governance. | `ACTIVE CORE` |
+| **[Project Jennifer](https://github.com/RobynAwesome/Project-Jennifer)** | Can relationship, world state and consequence become persistent, playable and auditable? | `PLAYABLE LOVE LOOP · R&D` |
+| **[Project RUNE](https://github.com/RobynAwesome/Project-Rune)** | Can agent↔agent coordination and identity claims require independent endorsement instead of assumed-safe consensus? | `REFERENCE MVP` |
+| **[LEFA-AI](https://github.com/RobynAwesome/lefa-ai)** | Governed financial intelligence with bounded execution, zero-trust controls, receipts and evidence-backed agent chains. | `GOVERNED POC VALIDATED` |
+| **[Ayakha / Aya](https://github.com/RobynAwesome/ayakha-ai)** | A local-first multimodal design companion that can help a learner move from intent → brief → approved Canva / SolidWorks change. | `MVP TRUTH-LOCKED` |
+| **[Cars4Mars](https://github.com/RobynAwesome/cars4mars-project)** | Rover safety, telemetry, simulation, edge perception and physical validation. | `DESIGN → BUILD` |
+| **[KasiLink](https://kasilink.com/)** | Township-first work discovery where distance, trust and infrastructure are product logic. | `LIVE` |
+| **[Five’s Arena](https://fivesarena.com/)** | Real venue operations, booking truth, adaptive UX and resilient mobile flows. | `PRODUCTION` |
+| **[AMAPHU](https://github.com/RobynAwesome/amaphu-app)** | Governed entertainment across interactive media, game, music and visual worlds. | `PHASED BUILD` |
+
+<p align="center">
+  <img src="./assets/estate-telemetry.svg" alt="Selected core estate telemetry" width="100%" />
+</p>
+
+<p align="center"><sub>The telemetry card tracks a selected core product estate. The research radar above is intentionally broader.</sub></p>
 
 ---
 
-## 🎮 Project Jennifer — the world must remember
+# 🎮 Project Jennifer — the world remembers what you choose
 
-Project Jennifer is one of the clearest visual and technical expressions of what I mean by governed intelligence:
+Project Jennifer has evolved hard.
 
-**choice → consequence → receipt → persistence → later gameplay**
+It is now centered on **Jennifer City: a web-first companion-consequence RPG about relationships, memory and governed intelligence**. Tactical combat remains a long-term direction; the present product proof is a loved continuity loop.
+
+```text
+CHOICE
+  ↓
+CONSEQUENCE
+  ↓
+RECEIPT
+  ↓
+PERSISTENCE
+  ↓
+THE NEXT SCENE REMEMBERS
+```
 
 <p align="center">
-  <img src="./assets/jennifer-cinematic-strip.svg" alt="Animated Project Jennifer choice-to-persistence cinematic strip" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/RobynAwesome/Project-Jennifer/tree/main/assets/Project-Waifu-Forge">
-    <img src="https://raw.githubusercontent.com/RobynAwesome/Project-Jennifer/main/assets/Project-Waifu-Forge/source/couple-project-poster-001.png" alt="Project Waifu Forge poster from Project Jennifer" width="48%" />
-  </a>
-  <a href="https://github.com/RobynAwesome/Project-Jennifer/tree/main/assets/Project-Waifu-Forge">
-    <img src="https://raw.githubusercontent.com/RobynAwesome/Project-Jennifer/main/assets/Project-Waifu-Forge/source/couple-governance-interface-001.png" alt="Project Waifu Forge governance interface from Project Jennifer" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RobynAwesome/Project-Jennifer/tree/main/assets/Project-Waifu-Forge/source">
-    <img src="https://raw.githubusercontent.com/RobynAwesome/Project-Jennifer/main/assets/Project-Waifu-Forge/source/forge-city-portrait-001.png" alt="Forge city portrait" width="31%" />
-  </a>
   <a href="https://github.com/RobynAwesome/Project-Jennifer">
-    <img src="https://raw.githubusercontent.com/RobynAwesome/Project-Jennifer/main/assets/Project-Waifu-Forge/source/couple-city-walk-001.png" alt="Project Jennifer city walk visual" width="31%" />
-  </a>
-  <a href="https://github.com/RobynAwesome/Project-Jennifer/tree/main/assets/Project-Waifu-Forge/source">
-    <img src="https://raw.githubusercontent.com/RobynAwesome/Project-Jennifer/main/assets/Project-Waifu-Forge/source/kholofelo-city-portrait-001.png" alt="Kholofelo city portrait" width="31%" />
+    <img src="https://raw.githubusercontent.com/RobynAwesome/Project-Jennifer/main/assets/images/backgrounds/copilot_image_1785497419290.jpeg" alt="Project Jennifer key art" width="100%" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/RobynAwesome/Project-Jennifer">
+    <img src="https://raw.githubusercontent.com/RobynAwesome/Project-Jennifer/main/assets/images/backgrounds/1785191861330.png" alt="Project Jennifer future governance city" width="48%" />
+  </a>
+  <a href="https://github.com/RobynAwesome/Project-Jennifer/blob/main/docs/architecture/memory-receipt-risk-matrix.md">
+    <img src="https://raw.githubusercontent.com/RobynAwesome/Project-Jennifer/main/assets/images/backgrounds/copilot_image_1785500000759.jpeg" alt="Project Jennifer Memory Receipt altar" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RobynAwesome/Project-Jennifer/tree/main/assets/Project%20Companions">
+    <img src="https://raw.githubusercontent.com/RobynAwesome/Project-Jennifer/main/assets/Project%20Companions/source/digital-hippocampus-substrate-001.png" alt="Project Jennifer Digital Hippocampus substrate" width="92%" />
+  </a>
+</p>
+
+The current repository proof now includes a **CI-gated love loop**, playable Memory District / Telemetry Tower work, a Third Signal episode, local-first continuity, epistemic disagreement, and a same-browser Continue path designed to survive API failure.
+
+That matters to me because I do not want AI characters that only *sound* like they remember you. I want the system to distinguish story, memory, inference, authority and evidence.
+
 <div align="center">
-  <a href="https://github.com/RobynAwesome/Project-Jennifer"><img src="https://img.shields.io/badge/WALK_WITH_JENNIFER-6D5DFB?style=for-the-badge&logo=github&logoColor=white" alt="Walk with Jennifer" /></a>
-  <a href="https://github.com/RobynAwesome/Project-Jennifer/blob/main/docs/architecture/memory-receipt-risk-matrix.md"><img src="https://img.shields.io/badge/INSPECT_THE_RECEIPT-111111?style=for-the-badge&logo=readthedocs&logoColor=52E2B3" alt="Inspect the Memory Receipt architecture" /></a>
+  <a href="https://github.com/RobynAwesome/Project-Jennifer"><img src="https://img.shields.io/badge/ENTER_JENNIFER_CITY-6D5DFB?style=for-the-badge&logo=github&logoColor=white" alt="Enter Jennifer City" /></a>
+  <a href="https://github.com/RobynAwesome/Project-Jennifer/blob/main/docs/architecture/memory-receipt-risk-matrix.md"><img src="https://img.shields.io/badge/INSPECT_MEMORY_RECEIPTS-111111?style=for-the-badge&logo=readthedocs&logoColor=52E2B3" alt="Memory Receipt architecture" /></a>
 </div>
-
-<p align="center"><sub>Public-lane Project Jennifer / Project Waifu Forge source assets. Visual existence is not treated as runtime canon without a separate governance receipt.</sub></p>
-
-<details>
-<summary><strong>OPEN // Why Jennifer is more than an AI character</strong></summary>
-<br/>
-
-Project Jennifer treats **continuity itself as gameplay**. Important state should survive scene boundaries, conversation boundaries and restarts. AI can propose or interpret, but authoritative change is expected to resolve through governed state and receipts rather than silent narrative drift.
-
-```text
-PLAYER CHOICE
-    ↓
-RELATIONSHIP / WORLD TRANSITION
-    ↓
-VALIDATION
-    ↓
-MEMORY RECEIPT
-    ↓
-PERSISTED STATE
-    ↓
-LATER SCENE REMEMBERS
-```
-
-</details>
 
 ---
 
-## 📡 External open-source footprint — receipts, not mythology
+# 🛡️ Project RUNE — endorsement, not consensus
 
-I keep finding my handle in public datasets I did not author. Those records are useful as **third-party discovery receipts**, but their ranks and generated lists are mutable, so I do not treat a number as a permanent identity claim.
+<p align="center">
+  <a href="https://github.com/RobynAwesome/Project-Rune">
+    <img src="https://raw.githubusercontent.com/RobynAwesome/Project-Rune/main/assets/project_rune_emblem.svg" alt="Project RUNE emblem" width="300" />
+  </a>
+</p>
 
-- 🇿🇦 **[gayanvoice/top-github-users — South Africa / total contributions](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/south_africa.md)** — the generated table currently includes `RobynAwesome`; positions can change as the dataset regenerates.
-- 🌍 **[xiv3r/top-github-users-ranking](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/total_contributions/south_africa.md)** — an independent downstream ranking dataset also contains the account.
-- 🤖 **[ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos/blob/main/TBI)** — `RobynAwesome` appears in the repository's `TBI` index.
-- 🧠 **[tejas-ae/Top-AI-repos](https://github.com/tejas-ae/Top-AI-repos/blob/main/README.md)** — the README's public account/avatar index includes `RobynAwesome`.
+**RUNE — Runtime Unified Network Endorsement** is my current public research product for a very specific problem:
 
-<details>
-<summary><strong>OPEN // Why I care about this</strong></summary>
-<br/>
+> **Multi-agent coordination is not the same thing as verified safety.**
 
-Self-description is useful, but externally generated public records give a different kind of signal:
+RUNE treats agent coordination events and identity claims as things that can be independently endorsed, rejected, revoked and receipted — rather than trusting agreement because several agents voted the same way.
+
+The public repo is intentionally honest about status: **reference MVP, scaffold + fail-closed gate**. It is not marked complete, proven or demo-ready without owner verification receipts.
 
 ```text
-BUILD → COMMIT → PUBLIC GRAPH → THIRD-PARTY INDEX → DISCOVERY
+MCP  → agent ↔ software tools
+MHS  → agent ↔ physical hardware
+RUNE → agent ↔ agent coordination / identity claims
+KPGS → wider governance authority + continuity
 ```
 
-That does not prove that every ranking methodology is correct. It proves that the work leaves enough public surface area to be independently observed.
-
-</details>
+<div align="center">
+  <a href="https://github.com/RobynAwesome/Project-Rune"><img src="https://img.shields.io/badge/OPEN_PROJECT_RUNE-8A6F2D?style=for-the-badge&logo=github&logoColor=white" alt="Open Project RUNE" /></a>
+  <a href="https://github.com/RobynAwesome/Project-Rune/blob/main/docs/THREAT_MODEL.md"><img src="https://img.shields.io/badge/READ_THREAT_MODEL-111111?style=for-the-badge&logo=readthedocs&logoColor=white" alt="RUNE threat model" /></a>
+</div>
 
 ---
 
-## 🧠 Sovereign infrastructure
+## 🤝 Companion systems: Aya + LEFA
 
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-7_TARGET-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 7 target" />
-  <img src="https://img.shields.io/badge/React-APWA-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React Adaptive PWA" />
-  <img src="https://img.shields.io/badge/Next.js-EDGE-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Three.js-SPATIAL-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Python-RUNTIME-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/.NET-10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" />
-  <img src="https://img.shields.io/badge/PostgreSQL-RELATIONAL_SPINE-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-OFFLINE_SYNC-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-EVIDENCE_GATES-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</div>
+The more I build, the more I care about **heavy architecture disappearing behind a humane interface**.
 
-### Engineering lanes
+### 🎨 Ayakha / Aya
 
-- **Edge + experience:** Next.js, React, TypeScript 7 target, Tailwind, Adaptive PWA, Three.js.
-- **Runtime:** Node.js, Python, .NET 10 / ASP.NET Core, Turborepo.
-- **State:** PostgreSQL, MongoDB Atlas, append-only receipts, offline-first local state.
-- **AI + orchestration:** Model Context Protocol, Kopano Context, OpenAI / ChatGPT, Codex, Gemini, Copilot, Hugging Face, Ollama, Azure AI Foundry.
-- **Governance:** KPGS, PKA, POCvsFOC, CI/CD evidence gates, provenance and recovery loops.
+[Aya](https://github.com/RobynAwesome/ayakha-ai) is a local-first multimodal design-thinking desktop companion for students and makers.
 
-### The governed execution loop
+The MVP is deliberately narrow: speak, type, sketch or show an intention → clarify missing requirements → create an explainable brief → make **one approved Canva change and one approved SolidWorks change**.
 
-```mermaid
-flowchart LR
-    A[Prompt / Human Intent] --> B[Proposal]
-    B --> C{Governance Decision}
-    C -->|approve| D[Artifact]
-    C -->|reject / unknown| H[Revise or Hold]
-    D --> E[Commit]
-    E --> F[Test + Measurement]
-    F --> G{Evidence Gate}
-    G -->|pass| I[Receipt + Visible State]
-    G -->|fail| H
-    I --> J[Next Context]
-    J --> A
+The point is not “AI does CAD for you.” The point is a learner staying in control while the system helps them think, make and understand.
+
+### 💸 LEFA
+
+<p align="center">
+  <a href="https://github.com/RobynAwesome/lefa-ai">
+    <img src="https://raw.githubusercontent.com/RobynAwesome/lefa-ai/main/assets/readme/meet-lefa-readme-hero.svg" alt="Meet LEFA — governed financial intelligence companion" width="100%" />
+  </a>
+</p>
+
+[LEFA](https://github.com/RobynAwesome/lefa-ai) asks a similar question in finance:
+
+> **Can one human-facing intelligence receive messy intent, use governed internal agents and real financial evidence, preserve uncertainty, and make a decision that time can later validate?**
+
+Its current lane includes zero-trust middleware, bounded paper-execution authority, evidence-backed chains, ADK work, risk gates and receipts. **Live trading is not silently promoted from a demo.**
+
+---
+
+## 🧠 The research map underneath the products
+
+A lot of my repositories are separate products, but the research is converging.
+
+```text
+HUMAN INTENT
+    ↓
+IDENTITY ── who is acting?
+    ↓
+SEAT ────── what authority do they hold?
+    ↓
+CONTEXT ─── what should persist?
+    ↓
+GOVERNANCE ─ what may change?
+    ↓
+EVIDENCE ─── what proves it?
+    ↓
+RECEIPT ──── what survives the session?
+    ↓
+ACTION / WORLD CHANGE
+    ↺
 ```
 
+Current research lanes include:
+
+- **KPGS / GSMB** — governance continuity across stateless model sessions.
+- **Digital Hippocampus** — persistent context, provenance and memory architecture.
+- **PKA / POCvsFOC** — bounded uncertainty and an immune system for false closure.
+- **MMAO / MAO** — multi-agent orchestration with human authority held outside agent consensus.
+- **RUNE** — independently endorsed coordination and identity claims.
+- **Memory Receipts** — making consequence inspectable in Project Jennifer.
+- **Source Authority** — relevance is not the same as permission, canon or truth.
+- **Zero-trust agent systems** — fail closed, minimize authority, preserve evidence.
+- **MCP / WebMCP / ADK / portable skills** — reusable interfaces for agents without surrendering governance to one vendor.
+- **Embodied and spatial computing** — Three.js, Blender, robotics, voice interfaces and physical-tool control.
+
 <details>
-<summary><strong>OPEN // KPGS doctrine terminal</strong></summary>
+<summary><strong>OPEN // The doctrine I keep returning to</strong></summary>
 <br/>
 
 ```text
@@ -243,35 +263,97 @@ SOURCE AUTHORITY BEFORE RETRIEVAL CONFIDENCE
 GOVERNANCE BEFORE DRIFT
 UNKNOWN IS A VALID STATE
 FAILURE MUST LEAVE A RECEIPT
-PUBLIC VISUALS MUST NOT SILENTLY BECOME CANON
+MODEL CAPABILITY DOES NOT EQUAL SYSTEM AUTHORITY
+CONSENSUS DOES NOT EQUAL ENDORSEMENT
 ```
 
-The point is not bureaucracy. The point is to keep powerful systems **inspectable, recoverable and honest about what they know**.
+The point is not bureaucracy.
+
+The point is to let systems become more powerful **without becoming less inspectable, less accountable or less human**.
 
 </details>
 
 ---
 
-## 🌐 Enter the estate
+## 🇿🇦 Why I care
+
+I am building from South Africa, not from an abstract “ideal user” diagram.
+
+I think about:
+
+- the student with an idea but no expensive workstation;
+- the graduate with skills but no clear opportunity path;
+- the township business that cannot afford wasted transport or data;
+- the founder who needs software to tell the truth when a provider is down;
+- the designer who wants AI help without surrendering authorship;
+- the person using financial intelligence who deserves boundaries, not magic language;
+- the developer who needs to inspect what the agent actually did.
+
+That is why I keep coming back to **offline-first, low-data, local-first, governed, reversible and evidence-backed systems**.
+
+Technology should increase agency.
+
+---
+
+## 🧰 What I build with
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/MCP-Agent_Interfaces-111111?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/ADK-Agent_Runtime-4285F4?style=flat-square" alt="ADK" />
+</div>
+
+I use OpenAI, Anthropic, Google, Microsoft, AWS, Hugging Face and open-source models/tools where they fit.
+
+**I do not want vendor lock to become architecture.** The model is a capability provider; the system still needs its own identity, authority, memory and governance.
+
+---
+
+## 🎓 Also: I’m still learning
+
+I am still a student while building all of this.
+
+Some days I am writing governance protocols. Some days I am debugging a rover. Some days I am learning Blender from the beginning, studying algorithms, reading about Fourier optics and holography, or trying to understand why a CI gate exploded at 20:00 on a Sunday. 😭
+
+I like that tension.
+
+I do not want to become the kind of builder who can explain a system beautifully but has stopped being teachable.
+
+---
+
+## 🌐 Live estate
 
 <div align="center">
   <a href="https://www.krrababalela.com/"><img src="https://img.shields.io/badge/KRRababalela.com-Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white" alt="KRRababalela.com" /></a>
-  <a href="https://kopanolabs.com/"><img src="https://img.shields.io/badge/KopanoLabs.com-Labs-14B8A6?style=for-the-badge&logoColor=white" alt="KopanoLabs.com" /></a>
-  <a href="https://kasilink.com/"><img src="https://img.shields.io/badge/KasiLink.com-Work-1C4A35?style=for-the-badge&logoColor=white" alt="KasiLink.com" /></a>
-  <a href="https://fivesarena.com/"><img src="https://img.shields.io/badge/FivesArena.com-Play-111111?style=for-the-badge&logoColor=white" alt="FivesArena.com" /></a>
+  <a href="https://kopanolabs.com/"><img src="https://img.shields.io/badge/KopanoLabs.com-Studio-1C4A35?style=for-the-badge&logo=vercel&logoColor=white" alt="KopanoLabs.com" /></a>
+  <a href="https://kasilink.com/"><img src="https://img.shields.io/badge/KasiLink.com-Work_Network-E0A928?style=for-the-badge&logoColor=111111" alt="KasiLink" /></a>
+  <a href="https://fivesarena.com/"><img src="https://img.shields.io/badge/FivesArena.com-Live_Venue-111111?style=for-the-badge&logoColor=white" alt="Five's Arena" /></a>
+  <a href="https://starfallsalvage.kopanolabs.com/"><img src="https://img.shields.io/badge/Starfall_Salvage-WebGL_Game-30110D?style=for-the-badge&logoColor=white" alt="Starfall Salvage" /></a>
 </div>
+
+---
+
+## 🤝 Come say hi
+
+If you are a **student, researcher, founder, designer, developer, investor, community builder or simply curious human**, you do not need the perfect introduction.
+
+If something here makes you think *“wait… what are you doing over there?”* — that is a good enough reason to talk. 🙂
 
 <div align="center">
-  <a href="https://github.com/RobynAwesome/Introduction-to-MCP"><img src="https://img.shields.io/badge/Kopano_Context-Source-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Kopano Context" /></a>
-  <a href="https://github.com/RobynAwesome/Project-Jennifer"><img src="https://img.shields.io/badge/Project_Jennifer-Source-6D5DFB?style=for-the-badge&logo=github&logoColor=white" alt="Project Jennifer source" /></a>
-  <a href="https://github.com/RobynAwesome/cars4mars-project"><img src="https://img.shields.io/badge/Cars4Mars-Source-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Cars4Mars" /></a>
-  <a href="https://github.com/RobynAwesome/amaphu-app"><img src="https://img.shields.io/badge/AMAPHU-Source-EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="AMAPHU" /></a>
+  <a href="https://www.linkedin.com/in/kholofelorobynrababalela/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/RobynAwesome"><img src="https://img.shields.io/badge/Follow_the_builds-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
-<br/>
-
 <p align="center">
-  <strong>Currently:</strong> CPUT Computer Engineering Student · Johns Hopkins University Student · Robert Kennedy College<br/>
-  <em>Building governed systems that turn concepts into receipts — from South Africa outward.</em><br/>
-  <sub>Profile evolved: 24 August 2026 · visual-first · evidence-first · living telemetry</sub>
+  <br/>
+  <strong>Build for people. Tell the truth. Leave receipts.</strong><br/>
+  <em>From Cape Town outward.</em><br/>
+  <sub>Living profile · major evolution: September 2026</sub>
 </p>
